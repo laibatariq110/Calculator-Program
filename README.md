@@ -2,6 +2,10 @@
 
 This project is a simple calculator application built using HTML, CSS, and JavaScript. It allows basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
+## 🌐 Live Demo
+![Calculator Program Screenshot](calculator-program-screenshot.png)
+[View the live project here!](https://laibatariq110.github.io/Calculator-Program)
+
 ## Project Structure
 
 The project consists of three main files:
